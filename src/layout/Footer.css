@@ -1,0 +1,10 @@
+footer {
+  max-width: 1400px;
+  width: 95%;
+  margin: 40px auto 0 auto;
+  background-color: #4e4e4e;
+  padding: 60px 10px;
+  display: grid;
+  place-items: center;
+  border-radius: 20px;
+}
