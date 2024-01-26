@@ -19,7 +19,7 @@ git clone https://github.com/pablo-eduardo-dev/e-commerce-entre-aspas.git
 
 Than go into on person-page folder and install the dependecies to run: <br>
 ```
-cd origamid
+cd e-commerce-entre-aspas
 npm install
 npm run dev
 ```
